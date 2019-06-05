@@ -90,6 +90,11 @@ h3 {
     height: 200px;
 }
 
+#back_button {
+    width: 200px;
+    height: 200px;
+}
+
 #no_reminder_header {
     color: #bcbcbc;
     font-family: 'Oswald', cursive;
@@ -101,4 +106,29 @@ h3 {
     position: fixed;
     top: 0;
     width: 100%;
+    text-align: center;
+}
+
+.header_button_container{
+    text-align: left;
+    float: left;
+}
+
+.logo_a{
+    padding-top: 25px;
+    width: 550px;
+    height: auto;
+}
+
+.logo_b{
+    padding-top: 25px;
+    width: 550px;
+    height: auto;
+    padding-right: 200px;
+}
+
+#submit_button{
+    width:250px;
+    height:250px;
+    padding-bottom: 10px;
 }
